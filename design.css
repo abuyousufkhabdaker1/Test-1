@@ -1,0 +1,177 @@
+.ProEdu{
+  font-size: 25px;
+  padding-right: 150px;
+  font-weight: bold;
+}
+
+.nav{
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.nav_item{
+  margin-right: 20px;
+}
+
+section{
+  margin-left: 30px;
+  margin-right: 40px;
+}
+
+.nav_item_reg{
+  margin-left: 170px;
+  color: rgba(0, 0, 255, 0.676);
+  border-color: rgba(0, 0, 0, 0.817);
+  border-width: 1px;
+  font-size: 17px;
+  font-weight: 400;
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.nav_item_reg:hover{
+  background-color: rgba(255, 166, 0, 0.527);
+  color: rgba(240, 248, 255, 0.63);
+  transition-duration: 1s;
+}
+
+.reg_b{
+  color: rgba(255, 255, 255, 0.779);
+  background-color: rgba(255, 166, 0, 0.626);
+  border-color: rgba(0, 0, 0, 0.505);
+  border-width: 1px;
+  font-size: 15px;
+  font-weight: 400;
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.carousel-item div{
+  margin: 100px;
+}
+
+.carousel-item img{
+  height: 600px;
+  filter: brightness(50%)
+}
+
+.discover{
+  text-align: center;
+  margin-top: 400px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.d_box{
+  display: flex;
+}
+
+.d_box div{
+  padding: 10px;
+}
+
+.See_more button{
+  margin-left: 500px;
+  color: rgba(255, 255, 255, 0.781);
+  background-color: rgba(255, 166, 0, 0.655);
+  border-width: 1px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.Explore{
+  margin-top: 200px;
+}
+
+.Read_more button{
+  margin-left: 20px;
+  margin-top: 10px;
+  color: rgba(255, 255, 255, 0.728);
+  background-color: rgba(255, 166, 0, 0.68);
+  border-width: 1px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.Join{
+  display: flex;
+  margin-top: 100px;
+  box-shadow: rgba(100, 100, 111, 0.765) 0px 7px 29px 0px;
+  background-color: rgba(95, 158, 160, 0.689);
+  color: white;
+  margin-right: 20px;
+  padding: 30px;
+}
+
+.Join p{
+  width: 600px;
+}
+
+.join_b button{
+  margin-top: 70px;
+  margin-left: 250px;
+  background-color: rgba(255, 255, 255, 0.747);
+  color: orange;
+}
+
+.meet{
+  margin-top: 200px;
+}
+
+.p{
+  width: 400px;
+}
+
+.student{
+  display: flex;
+}
+
+.student div{
+  margin: 10px;
+}
+
+.FAQ{
+  margin-top: 300px;
+}
+
+.FAQ div{
+  text-align: center;
+}
+
+.FAQP p{
+  margin-bottom: 40px;
+  text-align: center;
+  width: 560px;
+  margin-left: 300px;
+}
+
+.company{
+  margin-top: 300px;
+}
+
+.im{
+  padding: 12px;
+}
+
+.over h2{
+  text-align: center;
+}
+
+.foot{
+  margin-top: 300px;
+  padding: 100px;
+}
+
+

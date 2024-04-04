@@ -1,0 +1,23 @@
+.faq{
+    margin: 300px;
+    border: 2px solid black;
+}
+
+.c-image{
+    height: 600px;
+}
+
+@media only screen and (max-width: 600px){
+    .h{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1600px) {
+    .h {
+        display: block;
+    }
+    .dd{
+        display: none;
+    }
+}
